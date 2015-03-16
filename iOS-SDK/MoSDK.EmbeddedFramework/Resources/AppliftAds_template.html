@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:transparent; color:white; background:none">
+<div id="applift-%@"></div>
+<script type="text/javascript">
+  //<![CDATA[
+  var AppLiftConfig = AppLiftConfig || {
+    hostname: 'html.applift.com',
+    appToken: '%@',
+    widget  : '%@' // 'game_list' or 'carousel'
+  };
+  (function () {
+    var widget = document.createElement('script');
+    widget.type  = 'text/javascript';
+    widget.async = true;
+    widget.src   = (location.protocol == 'https:') ? 'https://cdn-applift.netdna-ssl.com/widget/html5.js' : 'http://cdn.applift.com/widget/html5.js';
+    var script = document.getElementsByTagName('script')[0];
+    script.parentNode.insertBefore(widget, script);
+  })();
+  //]]>
+</script>
+</body>
+</html>
