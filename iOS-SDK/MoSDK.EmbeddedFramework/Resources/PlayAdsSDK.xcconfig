@@ -1,3 +1,0 @@
-OTHER_LDFLAGS=$(inherited) -framework SystemConfiguration -framework CoreTelephony -weak_framework AdSupport -weak_framework StoreKit -framework Security -framework ImageIO -framework CoreGraphics -framework UIKit -framework Foundation
-PLAYADSSDK_DOCSET_NAME=PlayAdsSDK-iOS
-OTHER_LDFLAGS=-ObjC
