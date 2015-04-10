@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9F68DB0-8D83-49E4-8A11-1D8D3F4F1821</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4D612ADC8ADA6DA6F886F4358B7160D325A4681A</key>
+		<string>gitlab.com:mosdk/mosdk-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samples/cocos2dx_ios/Sample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4D612ADC8ADA6DA6F886F4358B7160D325A4681A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>gitlab.com:mosdk/mosdk-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4D612ADC8ADA6DA6F886F4358B7160D325A4681A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4D612ADC8ADA6DA6F886F4358B7160D325A4681A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ads-sdk-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
