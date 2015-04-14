@@ -2,8 +2,8 @@
 //  MoSDK.h
 //  MoSDK
 //
-//  Created by xiaofeiwang on 1/17/15.
-//  Copyright (c) 2015 com.ubc.felix. All rights reserved.
+//  Created by William Guan on 12/19/2014.
+//  Copyright (c) 2014,2015 Mogames Inc. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
