@@ -33,6 +33,7 @@ FOUNDATION_EXPORT const unsigned char AdsPackageVersionString[];
 
 + (void) showNextAd;
 
++ (NSString*)versionInfo;
 
 @end
 
