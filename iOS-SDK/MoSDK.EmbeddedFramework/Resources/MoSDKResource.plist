@@ -4,10 +4,8 @@
 <dict>
 <key>__vungle.db</key>
 <string>2ca5445a62130e12c03a00af54264f0a</string>
-<key>AppliftAds.nib/objects-8.0+.nib</key>
-<string>0168d64c8d2b831a59da250fd7d40bea</string>
-<key>AppliftAds.nib/runtime.nib</key>
-<string>c33ca552d8ff0d9c5b29ce9c7f64fc71</string>
+<key>AppliftAds.nib</key>
+<string>0996c15b1a05d034209650247ea5da13</string>
 <key>AppliftAds_template.html</key>
 <string>7e8dc6bd416ad44673622a1bef08e6f6</string>
 <key>PlayAds.bundle/AL_AppStore.png</key>
